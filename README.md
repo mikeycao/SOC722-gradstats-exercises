@@ -7,3 +7,5 @@ Topics span probability<sup>(week3)</sup>; univariate statistics and inferences<
 To view the exercises, download the corresponding `.html` file and open it in your local browser. You can also run all of my R code contained in my `.qmd` files. 
 
 The data used for my analyses come from the [2022 General Social Survey (GSS)](https://gss.norc.org/).
+
+| Author | Michael Cao |
